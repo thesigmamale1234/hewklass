@@ -8,24 +8,6 @@
     "Tooltip": "",
     "Rarity": 0
   },
-    {
-    "PrefabName": "[QuestSword]",
-    "ModificationGuid": "L7usSszLNkiA3xs14es6Lw",
-    "Favorited": false,
-    "PlatformMask": -1,
-    "FriendlyName": "Invalid sword",
-    "Tooltip": "",
-    "Rarity": 0
-  },
-    {
-    "PrefabName": "[QuestSword]",
-    "ModificationGuid": "aaaaaaaaaaaaaaaa",
-    "Favorited": false,
-    "PlatformMask": -1,
-    "FriendlyName": "Invalid 2 sword",
-    "Tooltip": "",
-    "Rarity": 0
-  },
   {
     "PrefabName": "[PaintballRifleScoped]",
     "ModificationGuid": "5p2_8W69NkCTjym9ecWqzA",
