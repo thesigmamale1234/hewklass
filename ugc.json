@@ -1,0 +1,69 @@
+{
+   "Results" : [
+      {
+         "Accessibility" : 2,
+         "BaseAvatarItemColor" : "#101",
+         "BaseAvatarItemId" : null,
+         "CreatedAt" : "2025-06-25T23:47:32.148Z",
+         "CreatorAccountId" : 1,
+         "CurrentSaves" : [
+            {
+               "AdditionalConfiguration" : "{\"v\":1,\"d\":{\"n\":\"Shark Bitten Boogie Board (Watermelon)\",\"o\":100,\"ir\":[0,170,0]}}",
+               "BodyType" : 1,
+               "CreatedAt" : "2025-06-25T23:53:47.211Z",
+               "CustomAvatarItemId" : "d26ef461-0d48-44d6-a631-438f43669aa6",
+               "CustomAvatarItemSaveId" : 34976,
+               "Description" : "Upload\n@Sleepyhead08Art",
+               "ModifiedAt" : "2025-06-25T23:53:47.211Z",
+               "OutfitType" : 100,
+               "QAState" : 0,
+               "ThumbnailFileName" : "3j8lwwnh1f8a2sevjfpavg37d.png",
+               "UnityAsset" : "1vum4wvhhenojfg54thgrkbsr.assetbundle",
+               "UnityAsset2" : "augxgqlitvjycze5i3xpqhwpa.assetbundle",
+               "UnityAsset2Hash" : "RutPjC+5/wTpLrwenkm386nhmBFFsk0YN3CtrZqOtSY=",
+               "UnityAssetHash" : "FL3LwkXCBpFbgHcvTKxugBZ1OPYt0LtJfjLsn44hWjc=",
+               "UnityAssetId" : "8b9c48b2-7e08-47b2-be60-38ab4d8f6fcf"
+            },
+            {
+               "AdditionalConfiguration" : "{\"v\":1,\"d\":{\"n\":\"Shark Bitten Boogie Board (Watermelon)\",\"o\":100,\"ir\":[0,170,0]}}",
+               "BodyType" : 2,
+               "CreatedAt" : "2025-06-25T23:53:33.272Z",
+               "CustomAvatarItemId" : "d26ef461-0d48-44d6-a631-438f43669aa6",
+               "CustomAvatarItemSaveId" : 34975,
+               "Description" : "Upload\n@Sleepyhead08Art",
+               "ModifiedAt" : "2025-06-25T23:53:33.272Z",
+               "OutfitType" : 100,
+               "QAState" : 0,
+               "ThumbnailFileName" : "5mupc88dhzvv0hgazfrpjjs3m.png",
+               "UnityAsset" : "91mksk9hhsb336xp8pq20kt63.assetbundle",
+               "UnityAsset2" : "2tlrlwfhr8y09gx5o3jxx0jy3.assetbundle",
+               "UnityAsset2Hash" : "1SAumGbpz7tim4s+avDnSvRqkzvpCaKvEOGapS+b6Mk=",
+               "UnityAssetHash" : "DQjTJwzLoSe1M6j79XdyUKBbyufgB3CS4kbdx0LAr/U=",
+               "UnityAssetId" : "a89d269b-81b8-42f4-922b-b89a7719431b"
+            }
+         ],
+         "CustomAvatarItemId" : "d26ef461-0d48-44d6-a631-438f43669aa6",
+         "Description" : null,
+         "DesignFilename" : null,
+         "ForceCannotPublish" : false,
+         "IsFeatured" : false,
+         "IsRecRoomApproved" : true,
+         "ModifiedAt" : "2025-07-15T16:48:48.687Z",
+         "Name" : "Rape Bitten Boogie Board (Watermelon)",
+         "OutfitType" : 100,
+         "PreviewOrientation" : 0,
+         "Price" : 0,
+         "PurchaseInfo" : null,
+         "RankedEntityId" : "d26ef461-0d48-44d6-a631-438f43669aa6",
+         "RankingContext" : null,
+         "Tags" : [
+            {
+               "TagType" : 0,
+               "Value" : "summer"
+            }
+         ],
+         "ThumbnailImageFilename" : null
+      }
+   ],
+   "TotalResults" : 1
+}
