@@ -2603,7 +2603,7 @@
   {
     "PrefabName": "[PaintballRifleScoped]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "PaintBallRifleScoped_Skin_Gold",
     "Tooltip": "",
@@ -2669,6 +2669,15 @@
     "Favorited": true,
     "PlatformMask": -1,
     "FriendlyName": "QuestShield_Skin_Gold",
+    "Tooltip": "",
+    "Rarity": 0
+  },
+  {
+    "PrefabName": "[QuestSword]",
+    "ModificationGuid": "5p2_8W69NkCTjym9ecWqzA",
+    "Favorited": true,
+    "PlatformMask": -1,
+    "FriendlyName": "Cup Sword",
     "Tooltip": "",
     "Rarity": 0
   },
