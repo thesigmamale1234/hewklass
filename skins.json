@@ -2593,6 +2593,15 @@
   },
   {
     "PrefabName": "[PaintballRifleScoped]",
+    "ModificationGuid": "5p2_8W69NkCTjym9ecWqzA",
+    "Favorited": true,
+    "PlatformMask": -1,
+    "FriendlyName": "Cup Sniper",
+    "Tooltip": "",
+    "Rarity": 0
+  },
+  {
+    "PrefabName": "[PaintballRifleScoped]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
     "Favorited": true,
     "PlatformMask": -1,
@@ -3176,12 +3185,21 @@
     "Tooltip": "",
     "Rarity": 0
   },
-    {
+  {
+    "PrefabName": "[PaintballRifleScoped]",
+    "ModificationGuid": "SFz15JbasU-gShl_GHnspw",
+    "Favorited": true,
+    "PlatformMask": -1,
+    "FriendlyName": "Galaxy Sniper",
+    "Tooltip": "",
+    "Rarity": 0
+  },
+  {
     "PrefabName": "[PaintballRifleScoped]",
     "ModificationGuid": "DRXoMS9phEG2fkasja7sEw",
     "Favorited": true,
     "PlatformMask": -1,
-    "FriendlyName": "Lava sniper",
+    "FriendlyName": "Volcanic Sniper",
     "Tooltip": "",
     "Rarity": 0
   },
