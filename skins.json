@@ -1,4 +1,52 @@
 [
+  {"comment: ": "custom skins below here"},
+  {
+    "PrefabName": "[QuestSword]",
+    "ModificationGuid": "L9usPszLFkiA6xs32es2Lw",
+    "Favorited": false,
+    "PlatformMask": -1,
+    "FriendlyName": "Jew sword",
+    "Tooltip": "",
+    "Rarity": 0
+  },
+  {
+    "PrefabName": "[QuestSword]",
+    "ModificationGuid": "52c6a138-10c5-4aab-9c3b-04b50c9a2dc5",
+    "Favorited": false,
+    "PlatformMask": -1,
+    "FriendlyName": "Idk sword",
+    "Tooltip": "",
+    "Rarity": 0
+  },
+  {
+    "PrefabName": "[PaintballRifleScoped]",
+    "ModificationGuid": "5p2_8W69NkCTjym9ecWqzA",
+    "Favorited": false,
+    "PlatformMask": -1,
+    "FriendlyName": "Cup Sniper",
+    "Tooltip": "",
+    "Rarity": 0
+  },
+  {
+    "PrefabName": "[PaintballRifleScoped]",
+    "ModificationGuid": "52c6a138-10c5-4aab-9c3b-04b50c9a2dc5",
+    "Favorited": false,
+    "PlatformMask": -1,
+    "FriendlyName": "Idk Sniper",
+    "Tooltip": "",
+    "Rarity": 0
+  },
+  {
+    "PrefabName": "[QuestSword]",
+    "ModificationGuid": "5p2_8W69NkCTjym9ecWqzA",
+    "Favorited": false,
+    "PlatformMask": -1,
+    "FriendlyName": "Cup Sword",
+    "Tooltip": "",
+    "Rarity": 0
+  },
+
+
   {
     "PrefabName": "[ShareCamera]",
     "ModificationGuid": "e2844f84-ab44-4141-9a0a-bd5da7caa4f6",
@@ -893,7 +941,7 @@
   {
     "PrefabName": "[MakerPen]",
     "ModificationGuid": "juFHwn9UjEiGaWyNnoxbtA",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "MakerPen_Skin_Pumpkin",
     "Tooltip": "",
@@ -1190,7 +1238,7 @@
   {
     "PrefabName": "[PaintballGun] Confetti",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "PaintballGunConfetti_Skin_Gold",
     "Tooltip": "",
@@ -1706,15 +1754,6 @@
     "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "QuestShield_Skin_wood",
-    "Tooltip": "",
-    "Rarity": 0
-  },
-    {
-    "PrefabName": "[QuestSword]",
-    "ModificationGuid": "L9usPszLFkiA6xs32es2Lw",
-    "Favorited": false,
-    "PlatformMask": -1,
-    "FriendlyName": "Blade of jew",
     "Tooltip": "",
     "Rarity": 0
   },
@@ -2468,7 +2507,7 @@
   {
     "PrefabName": "[ShareCamera]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "ShareCamera_Skin_Gold",
     "Tooltip": "",
@@ -2477,7 +2516,7 @@
   {
     "PrefabName": "[Arena_Grenade]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "Arena_Grenade_Skin_Gold",
     "Tooltip": "",
@@ -2486,7 +2525,7 @@
   {
     "PrefabName": "[Arrow]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "Arrow_Skin_Gold",
     "Tooltip": "",
@@ -2495,7 +2534,7 @@
   {
     "PrefabName": "[Basketball]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "Basketball_Skin_Gold",
     "Tooltip": "",
@@ -2504,7 +2543,7 @@
   {
     "PrefabName": "[BowlingBall]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "BowlingBall_Skin_Gold",
     "Tooltip": "",
@@ -2513,7 +2552,7 @@
   {
     "PrefabName": "[Bucket]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "Bucket_Skin_Gold",
     "Tooltip": "",
@@ -2522,7 +2561,7 @@
   {
     "PrefabName": "[CrossbowBolt]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "CrossbowBolt_Skin_Gold",
     "Tooltip": "",
@@ -2531,7 +2570,7 @@
   {
     "PrefabName": "[Crossbow_Hunter]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "Crossbow_Hunter_Skin_Gold",
     "Tooltip": "",
@@ -2540,7 +2579,7 @@
   {
     "PrefabName": "[Crossbow]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "Crossbow_Skin_Gold",
     "Tooltip": "",
@@ -2549,7 +2588,7 @@
   {
     "PrefabName": "[DiscGolfDisc]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "DiscGolfDisc_Skin_Gold",
     "Tooltip": "",
@@ -2558,7 +2597,7 @@
   {
     "PrefabName": "[DodgeballBall]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "DodgeballBall_Skin_Gold",
     "Tooltip": "",
@@ -2567,7 +2606,7 @@
   {
     "PrefabName": "[Grenade]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "Grenade_Skin_Gold",
     "Tooltip": "",
@@ -2576,7 +2615,7 @@
   {
     "PrefabName": "[Longbow]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "Longbow_Skin_Gold",
     "Tooltip": "",
@@ -2593,15 +2632,6 @@
   },
   {
     "PrefabName": "[PaintballRifleScoped]",
-    "ModificationGuid": "5p2_8W69NkCTjym9ecWqzA",
-    "Favorited": true,
-    "PlatformMask": -1,
-    "FriendlyName": "Cup Sniper",
-    "Tooltip": "",
-    "Rarity": 0
-  },
-  {
-    "PrefabName": "[PaintballRifleScoped]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
     "Favorited": false,
     "PlatformMask": -1,
@@ -2612,7 +2642,7 @@
   {
     "PrefabName": "[PaintballAssaultRifle]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "PaintballAssaultRifle_Skin_Gold",
     "Tooltip": "",
@@ -2621,7 +2651,7 @@
   {
     "PrefabName": "[PaintballGrenadeLauncher]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "PaintballGrenadeLauncher_Skin_Gold",
     "Tooltip": "",
@@ -2630,7 +2660,7 @@
   {
     "PrefabName": "[PaintballGun]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "PaintballGun_Skin_Gold",
     "Tooltip": "",
@@ -2639,7 +2669,7 @@
   {
     "PrefabName": "[PaintballShield]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "PaintballShield_Skin_Gold",
     "Tooltip": "",
@@ -2648,7 +2678,7 @@
   {
     "PrefabName": "[PaintballShotgun]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "PaintballShotgun_Skin_Gold",
     "Tooltip": "",
@@ -2657,7 +2687,7 @@
   {
     "PrefabName": "[Paintball_PaintThrower]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "Paintball_PaintThrower_Skin_Gold",
     "Tooltip": "",
@@ -2666,7 +2696,7 @@
   {
     "PrefabName": "[QuestShield]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "QuestShield_Skin_Gold",
     "Tooltip": "",
@@ -2674,17 +2704,8 @@
   },
   {
     "PrefabName": "[QuestSword]",
-    "ModificationGuid": "5p2_8W69NkCTjym9ecWqzA",
-    "Favorited": true,
-    "PlatformMask": -1,
-    "FriendlyName": "Cup Sword",
-    "Tooltip": "",
-    "Rarity": 0
-  },
-  {
-    "PrefabName": "[QuestSword]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "QuestSword_Skin_Gold",
     "Tooltip": "",
@@ -2693,7 +2714,7 @@
   {
     "PrefabName": "[Quest_Goblin_Wand]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "Quest_Goblin_Wand_Skin_Gold",
     "Tooltip": "",
@@ -2702,7 +2723,7 @@
   {
     "PrefabName": "[Quest_SciFi_AutomaticGun]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "Quest_SciFi_AutomaticGun_Skin_Gold",
     "Tooltip": "",
@@ -2711,7 +2732,7 @@
   {
     "PrefabName": "[Quest_SciFi_Pistol]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "Quest_SciFi_Pistol_Skin_Gold",
     "Tooltip": "",
@@ -2720,7 +2741,7 @@
   {
     "PrefabName": "[Quest_SciFi_RailGun]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "Quest_SciFi_RailGun_Skin_Gold",
     "Tooltip": "",
@@ -2729,7 +2750,7 @@
   {
     "PrefabName": "[Quest_SciFi_Shotgun]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "Quest_SciFi_Shotgun_Skin_Gold",
     "Tooltip": "",
@@ -2738,7 +2759,7 @@
   {
     "PrefabName": "[RecCenter_Cafe_Mug]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "RecCenter_Cafe_Mug_Skin_Gold",
     "Tooltip": "",
@@ -2747,7 +2768,7 @@
   {
     "PrefabName": "[RecRoyale_Backpack]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "RecRoyale_Backpack_Skin_Gold",
     "Tooltip": "",
@@ -2756,7 +2777,7 @@
   {
     "PrefabName": "[SoccerShield]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "Shield_Skin_Gold",
     "Tooltip": "",
@@ -2765,7 +2786,7 @@
   {
     "PrefabName": "[Vehicle_RallyBuggy]",
     "ModificationGuid": "bfrFOdnHzEaIwHqem2dXkg",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "Vehicle_RallyBuggy_Skin_Gold",
     "Tooltip": "",
@@ -3197,7 +3218,7 @@
   {
     "PrefabName": "[PaintballRifleScoped]",
     "ModificationGuid": "SFz15JbasU-gShl_GHnspw",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "Galaxy Sniper",
     "Tooltip": "",
@@ -3206,7 +3227,7 @@
   {
     "PrefabName": "[PaintballRifleScoped]",
     "ModificationGuid": "DRXoMS9phEG2fkasja7sEw",
-    "Favorited": true,
+    "Favorited": false,
     "PlatformMask": -1,
     "FriendlyName": "Volcanic Sniper",
     "Tooltip": "",
