@@ -8,12 +8,21 @@
     "Tooltip": "",
     "Rarity": 0
   },
-  {
+    {
     "PrefabName": "[QuestSword]",
-    "ModificationGuid": "52c6a138-10c5-4aab-9c3b-04b50c9a2dc5",
+    "ModificationGuid": "L7usSszLNkiA3xs14es6Lw",
     "Favorited": false,
     "PlatformMask": -1,
-    "FriendlyName": "Idk sword",
+    "FriendlyName": "Invalid sword",
+    "Tooltip": "",
+    "Rarity": 0
+  },
+    {
+    "PrefabName": "[QuestSword]",
+    "ModificationGuid": "aaaaaaaaaaaaaaaa",
+    "Favorited": false,
+    "PlatformMask": -1,
+    "FriendlyName": "Invalid 2 sword",
     "Tooltip": "",
     "Rarity": 0
   },
@@ -27,11 +36,20 @@
     "Rarity": 0
   },
   {
-    "PrefabName": "[PaintballRifleScoped]",
-    "ModificationGuid": "52c6a138-10c5-4aab-9c3b-04b50c9a2dc5",
+    "PrefabName": "[LongBow]",
+    "ModificationGuid": "SFz15JbasU-gShl_GHnspw",
     "Favorited": false,
     "PlatformMask": -1,
-    "FriendlyName": "Idk Sniper",
+    "FriendlyName": "Galaxy Bow",
+    "Tooltip": "",
+    "Rarity": 0
+  },
+    {
+    "PrefabName": "[LongBow]",
+    "ModificationGuid": "5p2_8W69NkCTjym9ecWqzA",
+    "Favorited": false,
+    "PlatformMask": -1,
+    "FriendlyName": "Cup Bow",
     "Tooltip": "",
     "Rarity": 0
   },
