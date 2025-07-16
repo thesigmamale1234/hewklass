@@ -1,0 +1,76 @@
+{
+   "Permissions" : [
+      {
+         "Override" : true,
+         "Permission" : "CAN_EDIT_ROOM_ROLES",
+         "Role" : 0,
+         "Type" : 0,
+         "Value" : "True"
+      },
+      {
+         "Override" : true,
+         "Permission" : "CAN_USE_DELETE_ALL_BUTTON",
+         "Role" : 0,
+         "Type" : 0,
+         "Value" : "True"
+      },
+      {
+         "Override" : true,
+         "Permission" : "CAN_USE_MAKER_PEN",
+         "Role" : 0,
+         "Type" : 0,
+         "Value" : "True"
+      },
+      {
+         "Override" : true,
+         "Permission" : "CAN_SAVE_INVENTIONS",
+         "Role" : 0,
+         "Type" : 0,
+         "Value" : "True"
+      },
+      {
+         "Override" : true,
+         "Permission" : "CAN_USE_ROOM_RESET_BUTTON",
+         "Role" : 0,
+         "Type" : 0,
+         "Value" : "True"
+      },
+      {
+         "Override" : true,
+         "Permission" : "CAN_SPAWN_INVENTIONS",
+         "Role" : 0,
+         "Type" : 0,
+         "Value" : "True"
+      },
+      {
+         "Override" : true,
+         "Permission" : "VOTE_KICK_PERMISSION",
+         "Role" : 0,
+         "Type" : 0,
+         "Value" : "1"
+      },
+      {
+         "Override" : true,
+         "Permission" : "DISABLE_MIC_AUTO_MUTE",
+         "Role" : 0,
+         "Type" : 0,
+         "Value" : "True"
+      },
+      {
+         "Override" : true,
+         "Permission" : "CAN_SELF_REVIVE",
+         "Role" : 0,
+         "Type" : 0,
+         "Value" : "True"
+      },
+      {
+         "Override" : true,
+         "Permission" : "CAN_END_GAMES_EARLY",
+         "Role" : 0,
+         "Type" : 0,
+         "Value" : "True"
+      }
+   ],
+   "PhotonAccessToken" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMDE3ODM0MzYyIiwic2NvcGUiOiJtYWtlcnBlbiIsImF1ZCI6IjExZDQxMmQ0LWMzYjAtNGIwNi1hOGY2LTM4NGRhMGNlMTM3ZiJ9.xl5MxSSL5-f4TmmENBEt0VJbYmo6Wjt5pDveMckOHhc",
+   "RoomInstanceId" : 1
+}
