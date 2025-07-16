@@ -3176,6 +3176,15 @@
     "Tooltip": "",
     "Rarity": 0
   },
+    {
+    "PrefabName": "[PaintballRifleScoped]",
+    "ModificationGuid": "DRXoMS9phEG2fkasja7sEw",
+    "Favorited": true,
+    "PlatformMask": -1,
+    "FriendlyName": "Lava sniper",
+    "Tooltip": "",
+    "Rarity": 0
+  },
   {
     "PrefabName": "[PaintballRifleScoped]",
     "ModificationGuid": "SFz15JbasU-gShl_GHnspw",
