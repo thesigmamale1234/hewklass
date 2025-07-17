@@ -1847,7 +1847,7 @@
   {
     "PrefabName": "[QuestSword]",
     "ModificationGuid": "SbEIObEmhkKQniANHqNekg",
-    "Favorited": false,
+    "Favorited": true,
     "PlatformMask": -1,
     "FriendlyName": "QuestSword_Skin_Pumpkin",
     "Tooltip": "",
