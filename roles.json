@@ -1,76 +1,307 @@
 {
-   "Permissions" : [
+    "RoomInstanceId": 1,
+    "PhotonAccessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMDMxMjM1NDgzIiwic2NvcGUiOiJtYWtlcnBlbiIsImF1ZCI6ImFlMDRiZDQyLTY4ZDktNGRiYy05YTg1LWZkMzYzMmFmNzM5NiJ9.JEmX1V7Pk3kariqCSwi5v_eNKjTfYd82jLV48FgsDvo",
+    "Permissions": [
       {
-         "Override" : true,
-         "Permission" : "CAN_EDIT_ROOM_ROLES",
-         "Role" : 0,
-         "Type" : 0,
-         "Value" : "True"
+        "Permission": "VOTE_KICK_PERMISSION",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "2"
       },
       {
-         "Override" : true,
-         "Permission" : "CAN_USE_DELETE_ALL_BUTTON",
-         "Role" : 0,
-         "Type" : 0,
-         "Value" : "True"
+        "Permission": "DISABLE_MIC_AUTO_MUTE",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
       },
       {
-         "Override" : true,
-         "Permission" : "CAN_USE_MAKER_PEN",
-         "Role" : 0,
-         "Type" : 0,
-         "Value" : "True"
+        "Permission": "CAN_INVITE",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
       },
       {
-         "Override" : true,
-         "Permission" : "CAN_SAVE_INVENTIONS",
-         "Role" : 0,
-         "Type" : 0,
-         "Value" : "True"
+        "Permission": "CAN_PRINT_PHOTOS",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
       },
       {
-         "Override" : true,
-         "Permission" : "CAN_USE_ROOM_RESET_BUTTON",
-         "Role" : 0,
-         "Type" : 0,
-         "Value" : "True"
+        "Permission": "CAN_CHANGE_GAME_MODE",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
       },
       {
-         "Override" : true,
-         "Permission" : "CAN_SPAWN_INVENTIONS",
-         "Role" : 0,
-         "Type" : 0,
-         "Value" : "True"
+        "Permission": "CAN_START_GAMES",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
       },
       {
-         "Override" : true,
-         "Permission" : "VOTE_KICK_PERMISSION",
-         "Role" : 0,
-         "Type" : 0,
-         "Value" : "1"
+        "Permission": "CAN_USE_SHARE_CAM",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
       },
       {
-         "Override" : true,
-         "Permission" : "DISABLE_MIC_AUTO_MUTE",
-         "Role" : 0,
-         "Type" : 0,
-         "Value" : "True"
+        "Permission": "AUTO_ASSIGNED_GAME_ROLES",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "\"fry\""
       },
       {
-         "Override" : true,
-         "Permission" : "CAN_SELF_REVIVE",
-         "Role" : 0,
-         "Type" : 0,
-         "Value" : "True"
+        "Permission": "CAN_SPAWN_CONSUMABLES",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
       },
       {
-         "Override" : true,
-         "Permission" : "CAN_END_GAMES_EARLY",
-         "Role" : 0,
-         "Type" : 0,
-         "Value" : "True"
+        "Permission": "CAN_USE_MAKER_PEN",
+        "Role": 20,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "CAN_USE_MAKER_PEN",
+        "Role": 10,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "CAN_USE_MAKER_PEN",
+        "Role": 0,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "CAN_PRINT_PHOTOS",
+        "Role": 0,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "CAN_SAVE_INVENTIONS",
+        "Role": 20,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "CAN_EDIT_ROOM_ROLES",
+        "Role": 20,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "CAN_SPAWN_INVENTIONS",
+        "Role": 20,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "AUTO_ASSIGNED_GAME_ROLES",
+        "Role": 255,
+        "Override": true,
+        "Type": 0,
+        "Value": "\"fry\""
+      },
+      {
+        "Permission": "CAN_SAVE_INVENTIONS",
+        "Role": 10,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "CAN_SPAWN_INVENTIONS",
+        "Role": 10,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "CAN_USE_DELETE_ALL_BUTTON",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "CAN_SAVE_INVENTIONS",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "CAN_USE_ROOM_RESET_BUTTON",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "AUTO_ASSIGNED_GAME_ROLES",
+        "Role": 20,
+        "Override": false,
+        "Type": 0,
+        "Value": ""
+      },
+      {
+        "Permission": "AUTO_ASSIGNED_GAME_ROLES",
+        "Role": 10,
+        "Override": true,
+        "Type": 0,
+        "Value": "\"fry\""
+      },
+      {
+        "Permission": "DISABLE_MIC_AUTO_MUTE",
+        "Role": 10,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "CAN_EDIT_ROOM_ROLES",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "False"
+      },
+      {
+        "Permission": "CAN_SPAWN_CONSUMABLES",
+        "Role": 0,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "VOTE_KICK_PERMISSION",
+        "Role": 20,
+        "Override": true,
+        "Type": 0,
+        "Value": "2"
+      },
+      {
+        "Permission": "CAN_SPAWN_INVENTIONS",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "CAN_SAVE_ROOM",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "CAN_PUBLISH_ROOM",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "False"
+      },
+      {
+        "Permission": "CAN_RESET_CLOUD_VARIABLES",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "False"
+      },
+      {
+        "Permission": "CAN_DELETE_CLOUD_VARIABLES",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "False"
+      },
+      {
+        "Permission": "CAN_NAME_SUBROOMS",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "False"
+      },
+      {
+        "Permission": "CAN_CREATE_SUBROOMS",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "False"
+      },
+      {
+        "Permission": "CAN_EDIT_SUBROOM_SETTINGS",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "False"
+      },
+      {
+        "Permission": "CAN_EDIT_ROOM_ECON_SETTINGS",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "CAN_EDIT_MAIN_ROOM_SETTINGS",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "CAN_EDIT_ROOM_PROGRESSION",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "CAN_RESTORE_ROOM",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "CAN_MOVE_SUBROOMS",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "False"
+      },
+      {
+        "Permission": "CAN_CLONE_SUBROOMS",
+        "Role": 30,
+        "Override": true,
+        "Type": 0,
+        "Value": "true"
+      },
+      {
+        "Permission": "CAN_SAVE_ROOM",
+        "Role": 25,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
       }
-   ],
-   "PhotonAccessToken" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMDE3ODM0MzYyIiwic2NvcGUiOiJtYWtlcnBlbiIsImF1ZCI6IjExZDQxMmQ0LWMzYjAtNGIwNi1hOGY2LTM4NGRhMGNlMTM3ZiJ9.xl5MxSSL5-f4TmmENBEt0VJbYmo6Wjt5pDveMckOHhc",
-   "RoomInstanceId" : 1
-}
+    ]
+  }
