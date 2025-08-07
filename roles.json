@@ -10,6 +10,13 @@
         "Value": "2"
       },
       {
+        "Permission": "VOTE_KICK_PERMISSION",
+        "Role": 0,
+        "Override": true,
+        "Type": 0,
+        "Value": "2"
+      },
+      {
         "Permission": "DISABLE_MIC_AUTO_MUTE",
         "Role": 30,
         "Override": true,
@@ -68,6 +75,13 @@
       {
         "Permission": "CAN_USE_MAKER_PEN",
         "Role": 20,
+        "Override": true,
+        "Type": 0,
+        "Value": "True"
+      },
+      {
+        "Permission": "CAN_USE_MAKER_PEN",
+        "Role": 30,
         "Override": true,
         "Type": 0,
         "Value": "True"
