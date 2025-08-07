@@ -1,321 +1,2302 @@
 {
-    "RoomInstanceId": 1,
-    "PhotonAccessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMDMxMjM1NDgzIiwic2NvcGUiOiJtYWtlcnBlbiIsImF1ZCI6ImFlMDRiZDQyLTY4ZDktNGRiYy05YTg1LWZkMzYzMmFmNzM5NiJ9.JEmX1V7Pk3kariqCSwi5v_eNKjTfYd82jLV48FgsDvo",
-    "Permissions": [
-      {
-        "Permission": "VOTE_KICK_PERMISSION",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "2"
-      },
-      {
-        "Permission": "VOTE_KICK_PERMISSION",
-        "Role": 0,
-        "Override": true,
-        "Type": 0,
-        "Value": "2"
-      },
-      {
-        "Permission": "DISABLE_MIC_AUTO_MUTE",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_INVITE",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_PRINT_PHOTOS",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_CHANGE_GAME_MODE",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_START_GAMES",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_USE_SHARE_CAM",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "AUTO_ASSIGNED_GAME_ROLES",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "\"fry\""
-      },
-      {
-        "Permission": "CAN_SPAWN_CONSUMABLES",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_USE_MAKER_PEN",
-        "Role": 20,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_USE_MAKER_PEN",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_USE_MAKER_PEN",
-        "Role": 10,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_USE_MAKER_PEN",
-        "Role": 0,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_PRINT_PHOTOS",
-        "Role": 0,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_SAVE_INVENTIONS",
-        "Role": 20,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_EDIT_ROOM_ROLES",
-        "Role": 20,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_SPAWN_INVENTIONS",
-        "Role": 20,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "AUTO_ASSIGNED_GAME_ROLES",
-        "Role": 255,
-        "Override": true,
-        "Type": 0,
-        "Value": "\"fry\""
-      },
-      {
-        "Permission": "CAN_SAVE_INVENTIONS",
-        "Role": 10,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_SPAWN_INVENTIONS",
-        "Role": 10,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_USE_DELETE_ALL_BUTTON",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_SAVE_INVENTIONS",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_USE_ROOM_RESET_BUTTON",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "AUTO_ASSIGNED_GAME_ROLES",
-        "Role": 20,
-        "Override": false,
-        "Type": 0,
-        "Value": ""
-      },
-      {
-        "Permission": "AUTO_ASSIGNED_GAME_ROLES",
-        "Role": 10,
-        "Override": true,
-        "Type": 0,
-        "Value": "\"fry\""
-      },
-      {
-        "Permission": "DISABLE_MIC_AUTO_MUTE",
-        "Role": 10,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_EDIT_ROOM_ROLES",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "False"
-      },
-      {
-        "Permission": "CAN_SPAWN_CONSUMABLES",
-        "Role": 0,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "VOTE_KICK_PERMISSION",
-        "Role": 20,
-        "Override": true,
-        "Type": 0,
-        "Value": "2"
-      },
-      {
-        "Permission": "CAN_SPAWN_INVENTIONS",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_SAVE_ROOM",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_PUBLISH_ROOM",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "False"
-      },
-      {
-        "Permission": "CAN_RESET_CLOUD_VARIABLES",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "False"
-      },
-      {
-        "Permission": "CAN_DELETE_CLOUD_VARIABLES",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "False"
-      },
-      {
-        "Permission": "CAN_NAME_SUBROOMS",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "False"
-      },
-      {
-        "Permission": "CAN_CREATE_SUBROOMS",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "False"
-      },
-      {
-        "Permission": "CAN_EDIT_SUBROOM_SETTINGS",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "False"
-      },
-      {
-        "Permission": "CAN_EDIT_ROOM_ECON_SETTINGS",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_EDIT_MAIN_ROOM_SETTINGS",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_EDIT_ROOM_PROGRESSION",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_RESTORE_ROOM",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      },
-      {
-        "Permission": "CAN_MOVE_SUBROOMS",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "False"
-      },
-      {
-        "Permission": "CAN_CLONE_SUBROOMS",
-        "Role": 30,
-        "Override": true,
-        "Type": 0,
-        "Value": "true"
-      },
-      {
-        "Permission": "CAN_SAVE_ROOM",
-        "Role": 25,
-        "Override": true,
-        "Type": 0,
-        "Value": "True"
-      }
-    ]
-  }
+  "Permissions": [
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_ROLES",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_ROLES",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_ROLES",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_ROLES",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_ROLES",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_ROLES",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_ROLES",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_ROLES",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "VOTE_KICK_PERMISSION",
+      "Role": 0,
+      "Type": 0,
+      "Value": "1"
+    },
+    {
+      "Override": true,
+      "Permission": "VOTE_KICK_PERMISSION",
+      "Role": 1,
+      "Type": 0,
+      "Value": "1"
+    },
+    {
+      "Override": true,
+      "Permission": "VOTE_KICK_PERMISSION",
+      "Role": 10,
+      "Type": 0,
+      "Value": "1"
+    },
+    {
+      "Override": true,
+      "Permission": "VOTE_KICK_PERMISSION",
+      "Role": 20,
+      "Type": 0,
+      "Value": "1"
+    },
+    {
+      "Override": true,
+      "Permission": "VOTE_KICK_PERMISSION",
+      "Role": 25,
+      "Type": 0,
+      "Value": "1"
+    },
+    {
+      "Override": true,
+      "Permission": "VOTE_KICK_PERMISSION",
+      "Role": 30,
+      "Type": 0,
+      "Value": "1"
+    },
+    {
+      "Override": true,
+      "Permission": "VOTE_KICK_PERMISSION",
+      "Role": 31,
+      "Type": 0,
+      "Value": "1"
+    },
+    {
+      "Override": true,
+      "Permission": "VOTE_KICK_PERMISSION",
+      "Role": 255,
+      "Type": 0,
+      "Value": "1"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_INVITE",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_INVITE",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_INVITE",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_INVITE",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_INVITE",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_INVITE",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_INVITE",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_INVITE",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_TALK",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_TALK",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_TALK",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_TALK",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_TALK",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_TALK",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_TALK",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_TALK",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_PRINT_PHOTOS",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_PRINT_PHOTOS",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_PRINT_PHOTOS",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_PRINT_PHOTOS",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_PRINT_PHOTOS",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_PRINT_PHOTOS",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_PRINT_PHOTOS",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_PRINT_PHOTOS",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_START_GAMES",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_START_GAMES",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_START_GAMES",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_START_GAMES",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_START_GAMES",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_START_GAMES",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_START_GAMES",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_START_GAMES",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SELF_REVIVE",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SELF_REVIVE",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SELF_REVIVE",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SELF_REVIVE",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SELF_REVIVE",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SELF_REVIVE",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SELF_REVIVE",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SELF_REVIVE",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "AUTO_ASSIGNED_GAME_ROLES",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "AUTO_ASSIGNED_GAME_ROLES",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "AUTO_ASSIGNED_GAME_ROLES",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "AUTO_ASSIGNED_GAME_ROLES",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "AUTO_ASSIGNED_GAME_ROLES",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "AUTO_ASSIGNED_GAME_ROLES",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "AUTO_ASSIGNED_GAME_ROLES",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "AUTO_ASSIGNED_GAME_ROLES",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CHANGE_GAME_MODE",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CHANGE_GAME_MODE",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CHANGE_GAME_MODE",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CHANGE_GAME_MODE",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CHANGE_GAME_MODE",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CHANGE_GAME_MODE",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CHANGE_GAME_MODE",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CHANGE_GAME_MODE",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_MAKER_PEN",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_MAKER_PEN",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_MAKER_PEN",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_MAKER_PEN",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_MAKER_PEN",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_MAKER_PEN",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_MAKER_PEN",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_MAKER_PEN",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_DELETE_ALL_BUTTON",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_DELETE_ALL_BUTTON",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_DELETE_ALL_BUTTON",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_DELETE_ALL_BUTTON",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_DELETE_ALL_BUTTON",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_DELETE_ALL_BUTTON",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_DELETE_ALL_BUTTON",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_DELETE_ALL_BUTTON",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SAVE_INVENTIONS",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SAVE_INVENTIONS",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SAVE_INVENTIONS",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SAVE_INVENTIONS",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SAVE_INVENTIONS",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SAVE_INVENTIONS",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SAVE_INVENTIONS",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SAVE_INVENTIONS",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "DISABLE_MIC_AUTO_MUTE",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "DISABLE_MIC_AUTO_MUTE",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "DISABLE_MIC_AUTO_MUTE",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "DISABLE_MIC_AUTO_MUTE",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "DISABLE_MIC_AUTO_MUTE",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "DISABLE_MIC_AUTO_MUTE",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "DISABLE_MIC_AUTO_MUTE",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "DISABLE_MIC_AUTO_MUTE",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_END_GAMES_EARLY",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_END_GAMES_EARLY",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_END_GAMES_EARLY",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_END_GAMES_EARLY",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_END_GAMES_EARLY",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_END_GAMES_EARLY",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_END_GAMES_EARLY",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_END_GAMES_EARLY",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_SHARE_CAM",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_SHARE_CAM",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_SHARE_CAM",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_SHARE_CAM",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_SHARE_CAM",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_SHARE_CAM",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_SHARE_CAM",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_SHARE_CAM",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "DEPRECATED_CAN_EDIT_CIRCUITS",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "DEPRECATED_CAN_EDIT_CIRCUITS",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "DEPRECATED_CAN_EDIT_CIRCUITS",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "DEPRECATED_CAN_EDIT_CIRCUITS",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "DEPRECATED_CAN_EDIT_CIRCUITS",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "DEPRECATED_CAN_EDIT_CIRCUITS",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "DEPRECATED_CAN_EDIT_CIRCUITS",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "DEPRECATED_CAN_EDIT_CIRCUITS",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SPAWN_INVENTIONS",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SPAWN_INVENTIONS",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SPAWN_INVENTIONS",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SPAWN_INVENTIONS",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SPAWN_INVENTIONS",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SPAWN_INVENTIONS",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SPAWN_INVENTIONS",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SPAWN_INVENTIONS",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SPAWN_CONSUMABLES",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SPAWN_CONSUMABLES",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SPAWN_CONSUMABLES",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SPAWN_CONSUMABLES",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SPAWN_CONSUMABLES",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SPAWN_CONSUMABLES",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SPAWN_CONSUMABLES",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SPAWN_CONSUMABLES",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_ROOM_RESET_BUTTON",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_ROOM_RESET_BUTTON",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_ROOM_RESET_BUTTON",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_ROOM_RESET_BUTTON",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_ROOM_RESET_BUTTON",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_ROOM_RESET_BUTTON",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_ROOM_RESET_BUTTON",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_ROOM_RESET_BUTTON",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_PLAY_GIZMOS_TOGGLE",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_PLAY_GIZMOS_TOGGLE",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_PLAY_GIZMOS_TOGGLE",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_PLAY_GIZMOS_TOGGLE",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_PLAY_GIZMOS_TOGGLE",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_PLAY_GIZMOS_TOGGLE",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_PLAY_GIZMOS_TOGGLE",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_PLAY_GIZMOS_TOGGLE",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "AUTO_ASSIGNED_PLAYER_TAGS",
+      "Role": 0,
+      "Type": 0,
+      "Value": "\"Mod\""
+    },
+    {
+      "Override": true,
+      "Permission": "AUTO_ASSIGNED_PLAYER_TAGS",
+      "Role": 1,
+      "Type": 0,
+      "Value": "\"Mod\""
+    },
+    {
+      "Override": true,
+      "Permission": "AUTO_ASSIGNED_PLAYER_TAGS",
+      "Role": 10,
+      "Type": 0,
+      "Value": "\"Mod\""
+    },
+    {
+      "Override": true,
+      "Permission": "AUTO_ASSIGNED_PLAYER_TAGS",
+      "Role": 20,
+      "Type": 0,
+      "Value": "\"Mod\""
+    },
+    {
+      "Override": true,
+      "Permission": "AUTO_ASSIGNED_PLAYER_TAGS",
+      "Role": 25,
+      "Type": 0,
+      "Value": "\"Mod\""
+    },
+    {
+      "Override": true,
+      "Permission": "AUTO_ASSIGNED_PLAYER_TAGS",
+      "Role": 30,
+      "Type": 0,
+      "Value": "\"Mod\""
+    },
+    {
+      "Override": true,
+      "Permission": "AUTO_ASSIGNED_PLAYER_TAGS",
+      "Role": 31,
+      "Type": 0,
+      "Value": "\"Mod\""
+    },
+    {
+      "Override": true,
+      "Permission": "AUTO_ASSIGNED_PLAYER_TAGS",
+      "Role": 255,
+      "Type": 0,
+      "Value": "\"Mod\""
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_RRS",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_RRS",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_RRS",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_RRS",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_RRS",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_RRS",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_RRS",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_USE_RRS",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "ROOM_LEVEL_THRESHOLD",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "ROOM_LEVEL_THRESHOLD",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "ROOM_LEVEL_THRESHOLD",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "ROOM_LEVEL_THRESHOLD",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "ROOM_LEVEL_THRESHOLD",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "ROOM_LEVEL_THRESHOLD",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "ROOM_LEVEL_THRESHOLD",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "ROOM_LEVEL_THRESHOLD",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SAVE_ROOM",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SAVE_ROOM",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SAVE_ROOM",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SAVE_ROOM",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SAVE_ROOM",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SAVE_ROOM",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SAVE_ROOM",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_SAVE_ROOM",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_PUBLISH_ROOM",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_PUBLISH_ROOM",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_PUBLISH_ROOM",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_PUBLISH_ROOM",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_PUBLISH_ROOM",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_PUBLISH_ROOM",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_PUBLISH_ROOM",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_PUBLISH_ROOM",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CLONE_ROOM",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CLONE_ROOM",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CLONE_ROOM",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CLONE_ROOM",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CLONE_ROOM",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CLONE_ROOM",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CLONE_ROOM",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CLONE_ROOM",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_RESTORE_ROOM",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_RESTORE_ROOM",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_RESTORE_ROOM",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_RESTORE_ROOM",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_RESTORE_ROOM",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_RESTORE_ROOM",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_RESTORE_ROOM",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_RESTORE_ROOM",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_MAIN_ROOM_SETTINGS",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_MAIN_ROOM_SETTINGS",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_MAIN_ROOM_SETTINGS",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_MAIN_ROOM_SETTINGS",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_MAIN_ROOM_SETTINGS",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_MAIN_ROOM_SETTINGS",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_MAIN_ROOM_SETTINGS",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_MAIN_ROOM_SETTINGS",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_ECON_SETTINGS",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_ECON_SETTINGS",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_ECON_SETTINGS",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_ECON_SETTINGS",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_ECON_SETTINGS",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_ECON_SETTINGS",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_ECON_SETTINGS",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_ECON_SETTINGS",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CREATE_SUBROOMS",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CREATE_SUBROOMS",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CREATE_SUBROOMS",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CREATE_SUBROOMS",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CREATE_SUBROOMS",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CREATE_SUBROOMS",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CREATE_SUBROOMS",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CREATE_SUBROOMS",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_NAME_SUBROOMS",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_NAME_SUBROOMS",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_NAME_SUBROOMS",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_NAME_SUBROOMS",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_NAME_SUBROOMS",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_NAME_SUBROOMS",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_NAME_SUBROOMS",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_NAME_SUBROOMS",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CLONE_SUBROOMS",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CLONE_SUBROOMS",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CLONE_SUBROOMS",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CLONE_SUBROOMS",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CLONE_SUBROOMS",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CLONE_SUBROOMS",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CLONE_SUBROOMS",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_CLONE_SUBROOMS",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_MOVE_SUBROOMS",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_MOVE_SUBROOMS",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_MOVE_SUBROOMS",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_MOVE_SUBROOMS",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_MOVE_SUBROOMS",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_MOVE_SUBROOMS",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_MOVE_SUBROOMS",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_MOVE_SUBROOMS",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_DELETE_SUBROOMS",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_DELETE_SUBROOMS",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_DELETE_SUBROOMS",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_DELETE_SUBROOMS",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_DELETE_SUBROOMS",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_DELETE_SUBROOMS",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_DELETE_SUBROOMS",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_DELETE_SUBROOMS",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_SUBROOM_SETTINGS",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_SUBROOM_SETTINGS",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_SUBROOM_SETTINGS",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_SUBROOM_SETTINGS",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_SUBROOM_SETTINGS",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_SUBROOM_SETTINGS",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_SUBROOM_SETTINGS",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_SUBROOM_SETTINGS",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_RESET_CLOUD_VARIABLES",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_RESET_CLOUD_VARIABLES",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_RESET_CLOUD_VARIABLES",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_RESET_CLOUD_VARIABLES",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_RESET_CLOUD_VARIABLES",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_RESET_CLOUD_VARIABLES",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_RESET_CLOUD_VARIABLES",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_RESET_CLOUD_VARIABLES",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_DELETE_CLOUD_VARIABLES",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_DELETE_CLOUD_VARIABLES",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_DELETE_CLOUD_VARIABLES",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_DELETE_CLOUD_VARIABLES",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_DELETE_CLOUD_VARIABLES",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_DELETE_CLOUD_VARIABLES",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_DELETE_CLOUD_VARIABLES",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_DELETE_CLOUD_VARIABLES",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_PROGRESSION",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_PROGRESSION",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_PROGRESSION",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_PROGRESSION",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_PROGRESSION",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_PROGRESSION",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_PROGRESSION",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_EDIT_ROOM_PROGRESSION",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_REMOVE_ROOM_BANS",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_REMOVE_ROOM_BANS",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_REMOVE_ROOM_BANS",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_REMOVE_ROOM_BANS",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_REMOVE_ROOM_BANS",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_REMOVE_ROOM_BANS",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_REMOVE_ROOM_BANS",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_REMOVE_ROOM_BANS",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_ADD_ROOM_BANS",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_ADD_ROOM_BANS",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_ADD_ROOM_BANS",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_ADD_ROOM_BANS",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_ADD_ROOM_BANS",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_ADD_ROOM_BANS",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_ADD_ROOM_BANS",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_ADD_ROOM_BANS",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_MODIFY_ROOM_WIDE_ASSETS",
+      "Role": 0,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_MODIFY_ROOM_WIDE_ASSETS",
+      "Role": 1,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_MODIFY_ROOM_WIDE_ASSETS",
+      "Role": 10,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_MODIFY_ROOM_WIDE_ASSETS",
+      "Role": 20,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_MODIFY_ROOM_WIDE_ASSETS",
+      "Role": 25,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_MODIFY_ROOM_WIDE_ASSETS",
+      "Role": 30,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_MODIFY_ROOM_WIDE_ASSETS",
+      "Role": 31,
+      "Type": 0,
+      "Value": "True"
+    },
+    {
+      "Override": true,
+      "Permission": "CAN_MODIFY_ROOM_WIDE_ASSETS",
+      "Role": 255,
+      "Type": 0,
+      "Value": "True"
+    }
+  ],
+  "PhotonAccessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMzc2OTc1NjE1Iiwic2NvcGUiOiJtYWtlcnBlbiIsImF1ZCI6ImEyZTgyZjM2LWU2MjEtNDZjNC04ODZjLTA3ZmIzMTljMDk0ZSJ9.lVuVPHMMCOLnLTYtx4KnQdfF3BGNKHVrUld3dLx7azs",
+  "RoomInstanceId": 1
+}
