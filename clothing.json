@@ -1,147 +1,4 @@
 	[
-		{
-      "AvatarItemDesc" : "0b79c906-3ffb-41b6-9b40-8bb23f05082b",
-      "AvatarItemId" : 6996,
-      "AvatarItemType" : 0,
-      "CreatedAt" : "2024-06-03T17:49:44.293Z",
-      "FriendlyName" : "Ice Cream Mascot Gloves",
-      "IsBaseAvatarItem" : false,
-      "PlatformMask" : -1,
-      "Rarity" : 50,
-      "TagList" : null,
-      "ThumbnailImage" : "j-CKdff7OE2F9hKf1wMWWQ.png",
-      "Tooltip" : ""
-   },
-   {
-      "AvatarItemDesc" : "274910c0-a25f-49b5-a05e-d94a603cab45",
-      "AvatarItemId" : 7001,
-      "AvatarItemType" : 0,
-      "CreatedAt" : "2024-06-03T17:49:53.677Z",
-      "FriendlyName" : "Ice Cream Mascot Pants",
-      "IsBaseAvatarItem" : false,
-      "PlatformMask" : -1,
-      "Rarity" : 50,
-      "TagList" : null,
-      "ThumbnailImage" : "4cEF4gPRZUOVwBOOd8NPuA.png",
-      "Tooltip" : ""
-   },
-   {
-      "AvatarItemDesc" : "45e9bd7b-b1df-4751-b3ac-994652a5745a,",
-      "AvatarItemId" : 2988,
-      "AvatarItemType" : 0,
-      "CreatedAt" : "2023-06-12T18:20:28.41Z",
-      "FriendlyName" : "Shark Fin",
-      "IsBaseAvatarItem" : false,
-      "PlatformMask" : -1,
-      "Rarity" : 50,
-      "TagList" : null,
-      "ThumbnailImage" : "RuMuJlJM3UaDCB2yNfw80g.png",
-      "Tooltip" : ""
-   },
-   {
-      "AvatarItemDesc" : "75-HXZBOAEiDBqclnOn8YQ,8498a17b-3eb2-40cd-a10e-145fd1fd8d2f",
-      "AvatarItemId" : 6691,
-      "AvatarItemType" : 0,
-      "CreatedAt" : "2024-04-15T18:46:17.78Z",
-      "FriendlyName" : "Mint Ice Cream Floatie",
-      "IsBaseAvatarItem" : false,
-      "PlatformMask" : -1,
-      "Rarity" : 50,
-      "TagList" : null,
-      "ThumbnailImage" : "x3qkRuPHmkCtTsHf1sYdoQ.png",
-      "Tooltip" : ""
-   },
-   {
-      "AvatarItemDesc" : "7e9328fa-6525-4b33-8179-a2b020dd9e32",
-      "AvatarItemId" : 6994,
-      "AvatarItemType" : 0,
-      "CreatedAt" : "2024-06-03T17:49:40.38Z",
-      "FriendlyName" : "Ice Cream Cone Mascot Hat",
-      "IsBaseAvatarItem" : false,
-      "PlatformMask" : -1,
-      "Rarity" : 50,
-      "TagList" : null,
-      "ThumbnailImage" : "G15EocC7FkiGtAtCnCFGLg.png",
-      "Tooltip" : ""
-   },
-   {
-      "AvatarItemDesc" : "7ed81aea-0e77-4b38-a87c-729048c6fe41,",
-      "AvatarItemId" : 2993,
-      "AvatarItemType" : 0,
-      "CreatedAt" : "2023-06-12T18:31:02.05Z",
-      "FriendlyName" : "Fireworks Antennae Headband",
-      "IsBaseAvatarItem" : false,
-      "PlatformMask" : -1,
-      "Rarity" : 50,
-      "TagList" : null,
-      "ThumbnailImage" : "zuyqLhZCp0aHcBp_R9C0cg.png",
-      "Tooltip" : ""
-   },
-   {
-      "AvatarItemDesc" : "83544102-751c-4f68-adc5-a4c329ae6e70,0802219e-56da-4ff4-9ec6-2db5d256d434",
-      "AvatarItemId" : 6678,
-      "AvatarItemType" : 0,
-      "CreatedAt" : "2024-04-15T18:42:31.093Z",
-      "FriendlyName" : "Evergrown Boots",
-      "IsBaseAvatarItem" : false,
-      "PlatformMask" : -1,
-      "Rarity" : -1,
-      "TagList" : null,
-      "ThumbnailImage" : "BZSoetomek2t4JjIcBjQiw.png",
-      "Tooltip" : ""
-   },
-   {
-      "AvatarItemDesc" : "97f081a0-14c1-49b6-a48a-4281e6fa65b2",
-      "AvatarItemId" : 6676,
-      "AvatarItemType" : 0,
-      "CreatedAt" : "2024-04-15T18:42:28.903Z",
-      "FriendlyName" : "Mothman Headband",
-      "IsBaseAvatarItem" : false,
-      "PlatformMask" : -1,
-      "Rarity" : -1,
-      "TagList" : null,
-      "ThumbnailImage" : "O5jQ6umgak670hDZ9xgmpg.png",
-      "Tooltip" : ""
-   },
-   {
-      "AvatarItemDesc" : "c0e3d978-c4c8-4606-a1af-b37de8995dbc,",
-      "AvatarItemId" : 2989,
-      "AvatarItemType" : 0,
-      "CreatedAt" : "2023-06-12T18:20:31.567Z",
-      "FriendlyName" : "Shark Gloves",
-      "IsBaseAvatarItem" : false,
-      "PlatformMask" : -1,
-      "Rarity" : 20,
-      "TagList" : null,
-      "ThumbnailImage" : "Lb9vAspJs0qpdD1X4GTNfg.png",
-      "Tooltip" : ""
-   },
-   {
-      "AvatarItemDesc" : "f08c35b0-bd86-414f-829b-b8a70d25aa7b",
-      "AvatarItemId" : 6995,
-      "AvatarItemType" : 0,
-      "CreatedAt" : "2024-06-03T17:49:42.053Z",
-      "FriendlyName" : "Ice Cream Mascot Shirt",
-      "IsBaseAvatarItem" : false,
-      "PlatformMask" : -1,
-      "Rarity" : 50,
-      "TagList" : null,
-      "ThumbnailImage" : "efLmARAF3EO8o-7DNLidpQ.png",
-      "Tooltip" : ""
-   },
-   {
-      "AvatarItemDesc" : "ffddbd79-0158-4f93-b8ec-dd5573c035a7,",
-      "AvatarItemId" : 2962,
-      "AvatarItemType" : 0,
-      "CreatedAt" : "2023-05-16T21:55:13.633Z",
-      "FriendlyName" : "Puka Shell Necklace",
-      "IsBaseAvatarItem" : false,
-      "PlatformMask" : -1,
-      "Rarity" : 50,
-      "TagList" : null,
-      "ThumbnailImage" : "J13fjL-CWEe40x06TPmuDg.png",
-      "Tooltip" : ""
-   },
     {
         "AvatarItemDesc": "_OWVy3z6iU-M3-zbQgSLig,,,",
         "AvatarItemType": 0,
@@ -172,11 +29,31 @@
         "Rarity": -1,
         "PlatformMask": -1,
         "IsBaseAvatarItem": false,
-        "FriendlyName": "Green Cheer Sash",
+        "FriendlyName": "Neck_FemaleCheerSash (FemaleCheerleaderSash_Shoulder_Green_Combination)",
         "AvatarItemType": 0,
         "Tooltip": "",
         "AvatarItemId": 9503,
         "AvatarItemDesc": "60067e91-18b8-43ab-ae20-a8ea74c757bf,KUAMuM41hk-YLZoqTiKncA,LjQ1UKN2xkqJkok40Dxaew"
+    },
+    {
+        "Rarity": 50,
+        "PlatformMask": -1,
+        "IsBaseAvatarItem": false,
+        "FriendlyName": "(Shirt_ScoutNeckerchief)  ScoutNeckerchief_Shirt_CampCounselor_Combination [Full Body]",
+        "AvatarItemType": 0,
+        "Tooltip": "",
+        "AvatarItemId": 5440,
+        "AvatarItemDesc": "671d1c31-4d29-43f3-a185-70e7a6c898d6,b3LMvviE_0-ObF1x5s1dtw"
+    },
+	{
+        "Rarity": -1,
+        "PlatformMask": -1,
+        "IsBaseAvatarItem": false,
+        "FriendlyName": "Neck_MaleCheerSash (MaleCheerleaderSash_Shoulder_Yellow_Combination)",
+        "AvatarItemType": 0,
+        "Tooltip": "",
+        "AvatarItemId": 9503,
+        "AvatarItemDesc": "5cd08cfb-c729-4c30-96d9-6a99bb934d91,EaJMu_M0OUyUZ_3x-X-d7Q,OFIqUvE4r0yMLHSMnlWMhw"
     },
     {
         "AvatarItemDesc": "_OWVy3z6iU-M3-zbQgSLig,iJW8XGJfU0G12iXarjxhdQ,N5wN1l0tYEau5np-9PoIiA,",
@@ -23254,6 +23131,26 @@
         "ThumbnailImage": "c0aetz7tzn1vg6rqcopztwq0i.png"
     },
     {
+        "Rarity": -1,
+        "PlatformMask": -1,
+        "IsBaseAvatarItem": false,
+        "FriendlyName": "Hat_Headphones (Headphones_Hat_Floral_Combination)",
+        "AvatarItemType": 0,
+        "Tooltip": "",
+        "AvatarItemId": 9503,
+        "AvatarItemDesc": "UcPo9SsF3EGTCBB2J-Efdw,pAlEt5sqD0mKgFd_0b7RgA"
+    },
+    {
+        "Rarity": -1,
+        "PlatformMask": -1,
+        "IsBaseAvatarItem": false,
+        "FriendlyName": "Hat_Headphones (Headphones_Hat_Floral_Orange_Combination)",
+        "AvatarItemType": 0,
+        "Tooltip": "",
+        "AvatarItemId": 9503,
+        "AvatarItemDesc": "UcPo9SsF3EGTCBB2J-Efdw,PNH0VNS1qk6nWVecYmVDDQ"
+    },
+    {
         "AvatarItemDesc": "ASHnWS0h9kOJhbOUwxWKFQ,,,",
         "AvatarItemType": 0,
         "PlatformMask": -1,
@@ -23891,7 +23788,7 @@
         "ThumbnailImage": "efVnvXfV-0-RgOpfnNi_bQ.png"
     },
     {
-        "AvatarItemDesc": "b3b59410-d3df-464b-a75b-500a9e5ea154,N0fBxjrCekO-HUqmc3MufQ,_o3mI1mjE02vekPVyJg8Aw,",
+        "AvatarItemDesc": "w",
         "AvatarItemType": 0,
         "PlatformMask": -1,
         "FriendlyName": "Pocket Tee (Blue)",
@@ -27687,6 +27584,16 @@
         "ThumbnailImage": "ddse4tp99yydkypotqc8d4hpg.png"
     },
     {
+        "Rarity": -1,
+        "PlatformMask": -1,
+        "IsBaseAvatarItem": false,
+        "FriendlyName": "Mobster Shirt (Mobster_Shirt_BirdOfParadise_Combination)",
+        "AvatarItemType": 0,
+        "Tooltip": "",
+        "AvatarItemId": 9503,
+        "AvatarItemDesc": "4308da04-af84-40bb-845a-7a9e1a2726ec,352obeXyMkyLIv62h2g-Ng"
+    },
+    {
         "AvatarItemDesc": "CQuKKNpan0O7rhR1fr14-Q,GDvaUU10-EKh3pKUQ9tnag,b-IM3eYMJUa40395O5XeLg,",
         "AvatarItemType": 0,
         "PlatformMask": -1,
@@ -27882,19 +27789,6 @@
         "ThumbnailImage": "92ns2hqejpkog0560clmw3qjv.png"
     },
     {
-        "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,5864d23d-1a86-40a6-a52c-46ee670e4508,2ee3944d-e9fb-4959-973e-570a7fc6cc57,167ba0d4-4fac-4143-b5ae-1dbd8e02dc76",
-        "AvatarItemType": 0,
-        "PlatformMask": -1,
-        "FriendlyName": "Class of 2016 Shirt",
-        "Tooltip": "",
-        "Rarity": 50,
-        "TagList": null,
-        "AvatarItemId": 192,
-        "IsBaseAvatarItem": false,
-        "CreatedAt": "2017-04-05T23:43:35.977Z",
-        "ThumbnailImage": "au05f75bl482johdfb0fvjxjw.png"
-    },
-    {
         "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,5e7a48ed-8f08-4990-a3ae-05722c9f59a8,0440f08f-ef1d-49d8-942b-523056e8bb45,237e0aa2-5911-4704-8d2a-d446ddd2d842",
         "AvatarItemType": 0,
         "PlatformMask": -1,
@@ -27906,6 +27800,19 @@
         "IsBaseAvatarItem": false,
         "CreatedAt": "2017-11-29T01:25:03.627Z",
         "ThumbnailImage": "afeyng27plnoeojutrac3dvvj.png"
+    },
+    {
+        "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,5864d23d-1a86-40a6-a52c-46ee670e4508,2ee3944d-e9fb-4959-973e-570a7fc6cc57,167ba0d4-4fac-4143-b5ae-1dbd8e02dc76",
+        "AvatarItemType": 0,
+        "PlatformMask": -1,
+        "FriendlyName": "Class of 2016 Shirt",
+        "Tooltip": "",
+        "Rarity": 50,
+        "TagList": null,
+        "AvatarItemId": 192,
+        "IsBaseAvatarItem": false,
+        "CreatedAt": "2017-04-05T23:43:35.977Z",
+        "ThumbnailImage": "au05f75bl482johdfb0fvjxjw.png"
     },
     {
         "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,6kPcLZtEqU2Hs4yBFvc_sA,0440f08f-ef1d-49d8-942b-523056e8bb45,br9hzhDoZUmIevgl7SJkmg",
@@ -29935,7 +29842,48 @@
         "CreatedAt": "2021-09-27T20:20:50.503Z",
         "ThumbnailImage": "dwz0pxz74xy4zmr653hor487a.png"
     },
+	 {
+        "Rarity": -1,
+        "PlatformMask": -1,
+        "IsBaseAvatarItem": false,
+        "FriendlyName": "Hat_Mobster (Mobster_Hat_BirdOfParadise_Combination)",
+        "AvatarItemType": 0,
+        "Tooltip": "",
+        "AvatarItemId": 9503,
+        "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,_Fl6LKUUykSBrdEgaN-GFw"
+    },
+	{
+        "Rarity": -1,
+        "PlatformMask": -1,
+        "IsBaseAvatarItem": false,
+        "FriendlyName": "paintball white thing",
+        "AvatarItemType": 0,
+        "Tooltip": "",
+        "AvatarItemId": 9503,
+        "AvatarItemDesc": "b33dbeee-5bdd-443d-aa6a-761248054e08"
+    },
     {
+        "Rarity": -1,
+        "PlatformMask": -1,
+        "IsBaseAvatarItem": false,
+        "FriendlyName": "Hat_Mobster (Mobster_Hat_FashionGold_Combination)",
+        "AvatarItemType": 0,
+        "Tooltip": "",
+        "AvatarItemId": 9503,
+        "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,46970903-9799-4d25-b90a-7162c1f5dbef,d759c88d-a159-4c26-86dd-b054bb05b3ed"
+    },
+    {
+        "Rarity": -1,
+        "PlatformMask": -1,
+        "IsBaseAvatarItem": false,
+        "FriendlyName": "Hat_Mobster (Mobster_Hat_HackerDNS_Combination)",
+        "AvatarItemType": 0,
+        "Tooltip": "",
+        "AvatarItemId": 9503,
+        "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,8XajS2adOEOqzqnLy6-zcQ,P12CUkIg8EuFihGQsvPlxg"
+    },
+    {
+
         "AvatarItemDesc": "de0ac50d-2adb-4114-bd2e-68953b13d706,YlgQOY1VJUuGzYxoTYAqGg,jhQ23U8Pmk2K2wfBdrEWNA,",
         "AvatarItemType": 0,
         "PlatformMask": -1,
