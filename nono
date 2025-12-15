@@ -1,1 +1,15 @@
-[]
+{
+   "accountId" : 360745830,
+   "availableUsernameChanges" : 0,
+   "birthday" : "2003-01-01T05:00:00Z",
+   "createdAt" : "2025-12-02T04:04:25.3227362Z",
+   "displayName" : "Ephedrine",
+   "identityFlags" : 0,
+   "isFakeJuniorBirthday" : false,
+   "isJunior" : false,
+   "isMetaPlatformBlocked" : false,
+   "personalPronouns" : 0,
+   "platforms" : 1,
+   "profileImage" : "a8z731wuv4k2nufom9y0g36zz.jpg",
+   "username" : "TheEphedrineBoy"
+}
